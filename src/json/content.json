@@ -1,0 +1,540 @@
+[{
+    "name": "电视专区",
+    "id":1,
+    "img": ["//img.shop.hisense.com/2020/04/17/88f997c0-bb9c-4a93-baa2-c17668fdb628.jpg",
+        "//img.shop.hisense.com/2020/05/15/d924faee-4c92-4396-806e-68fb56830fff.jpg",
+        "//img.shop.hisense.com/2020/04/17/7d62c5f3-e17e-4189-b37b-03cb0e6aa8ad.jpg"
+    ],
+    "product":[{
+        "id":7,
+        "img1":"//img.shop.hisense.com/2019/05/29/9af8e2dd-09f5-46c5-b89f-ec0bfdeb13b4.png",
+        "title":"55英寸/AI声控/超薄全面屏/MEMC防抖/2GB+32GB电视",
+        "title2":"",
+        "title1":"【巅峰狂欢】【HZ55E5D】55英寸/AI声控/超薄全面屏/MEMC防抖/2GB+32GB电视",
+        "price":2899,
+        "price1":2899,
+        "is_select":0,
+        "ts": "已售1673台",
+        "pj": "评价(574)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/29/9af8e2dd-09f5-46c5-b89f-ec0bfdeb13b4.png",
+            "//img.shop.hisense.com/2018/10/08/498d4395-9ce6-4968-9893-50fb5b882af2.png",
+            "//img.shop.hisense.com/2018/10/03/22d7d1b8-a924-410d-bece-b015fa524584.png",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+
+
+    },{
+        "id":8,
+        "img1":"//img.shop.hisense.com/2019/05/13/155d7c4c-fe8b-477c-8000-7ee4f8138b5b.png",
+        "title":"55英寸/OLED自发光/四面无边全面屏/AI声控/杜比全景声/3GB+32GB电视",
+        "title2":"只见美景，不留残影！",
+        "title1":"【HZ55A8】55英寸/OLED自发光/四面无边全面屏/AI声控/杜比全景声/3GB+32GB电视",
+        "price":8999,
+        "price1":8999,
+        "is_select":0,
+        "ts": "已售41台",
+        "pj": "评价(2)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/13/155d7c4c-fe8b-477c-8000-7ee4f8138b5b.png",
+            "//img.shop.hisense.com/2018/10/08/498d4395-9ce6-4968-9893-50fb5b882af2.png",
+            "//img.shop.hisense.com/2018/10/03/22d7d1b8-a924-410d-bece-b015fa524584.png",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+
+    },{
+        "id":9,
+        "pid":1,
+        "img1":"//img.shop.hisense.com/2019/05/13/b5643a9a-a794-4fde-94e6-52a8412a18e3.png",
+        "title":"55英寸/AI声控/超薄全面屏/MEMC防抖/2GB+32GB电视",
+        "title2":"画质之上，再造巅峰！",
+        "title1":"【HZ55U8E】55英寸/U+超画质引擎/零框感悬浮屏设计/剑脊式滤音仓/3+32GB内存/杜比全景声",
+        "price":7699,
+        "price1":7699,
+        "is_select":0,
+        "ts": "已售71台",
+        "pj": "评价(7)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/13/b5643a9a-a794-4fde-94e6-52a8412a18e3.png",
+            "//img.shop.hisense.com/2019/03/27/05f661db-782d-4368-84b8-ffb0eb12cde6.png",
+            "//img.shop.hisense.com/2019/05/13/b5643a9a-a794-4fde-94e6-52a8412a18e3.png",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":10,
+        "pid":1,
+        "img1":"//img.shop.hisense.com/2019/05/29/4fc7c53d-4989-4575-aae6-04321386ae7b.png",
+        "title":"55英寸/超高色域/AI声控/杜比全景声/超薄全面屏电视",
+        "title2":"活动价3299元!爆款热销中",
+        "title1":"【巅峰狂欢】【HZ55E7D】55英寸/超高色域/AI声控/杜比全景声/超薄全面屏电视",
+        "price":3199,
+        "price1":3199,
+        "is_select":0,
+        "ts": "已售605台",
+        "pj": "评价(130)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/29/4fc7c53d-4989-4575-aae6-04321386ae7b.png",
+            "//img.shop.hisense.com/2019/03/27/05f661db-782d-4368-84b8-ffb0eb12cde6.png",
+            "//img.shop.hisense.com/2019/05/13/b5643a9a-a794-4fde-94e6-52a8412a18e3.png",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+},{
+    "name": "空调专区",
+    "id":2,
+    "img": ["//img.shop.hisense.com/2020/04/17/33e1c7f8-1429-45d8-9de1-2631e7acedac.jpg",
+        "//img.shop.hisense.com/2020/04/17/652777ae-8d31-447a-b5e7-a44b2d854dd4.jpg",
+        "//img.shop.hisense.com/2020/04/17/41230fd2-ba04-4381-a87c-956478f7cac8.jpg"
+    ],
+    "product":[{
+        "id":11,
+        "pid":2,
+        "img1":"//img.shop.hisense.com/2019/05/10/7b31a82d-11e4-40dc-b4d5-15d755e5429c.png",
+        "title":"3匹/一级能效/智能除湿/男神X系列舒适变频空调",
+        "title2":"360°旋转送风",
+        "title1":"【KFR-72LW/A8L200Z-A1】3匹/一级能效/智能除湿/男神X系列舒适变频空调",
+        "price":11999,
+        "price1":11999,
+        "is_select":0,
+        "ts": "已售19台",
+        "pj": "评价(130)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/10/7b31a82d-11e4-40dc-b4d5-15d755e5429c.png",
+            "//img.shop.hisense.com/2019/03/27/05f661db-782d-4368-84b8-ffb0eb12cde6.png",
+            "//img.shop.hisense.com/2019/05/13/b5643a9a-a794-4fde-94e6-52a8412a18e3.png",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+        
+    },{
+        "id":12,
+        "pid":2,
+        "img1":"//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+        "title":"1.5匹/一级变频/双模变频/舒适睡眠空调",
+        "title2":"",
+        "title1":"【巅峰狂欢】【KFR-35GW/E510-A1】1.5匹/一级变频/双模变频/舒适睡眠空调",
+        "price":2199,
+        "price1":2199,
+        "is_select":0,
+        "ts": "已售1705台",
+        "pj": "评价(398)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+            "//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+            "//img.shop.hisense.com/2020/05/26/261a6123-24f5-4ddf-acf3-a8a63e1797e7.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":13,
+        "pid":2,
+        "img1":"//img.shop.hisense.com/2019/05/17/44ae9e27-7fba-4ac1-97de-aec8def8a81c.png",
+        "title":"2匹/一级变频/新风增氧空调/AI体感追踪/自然风",
+        "title2":"AI体感追踪系统 自然风 新风增氧系统",
+        "title1":"【KFR-50GW/A8M100Z-A1】2匹/一级变频/新风增氧空调/AI体感追踪/自然风",
+        "price":7499,
+        "price1":7499,
+        "is_select":0,
+        "ts": "已售27台",
+        "pj": "评价(1)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/17/44ae9e27-7fba-4ac1-97de-aec8def8a81c.png",
+            "//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+            "//img.shop.hisense.com/2020/05/26/261a6123-24f5-4ddf-acf3-a8a63e1797e7.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":14,
+        "pid":2,
+        "img1":"//img.shop.hisense.com/2019/05/17/bcac54e5-182a-4341-936a-c3a0f1f5cd6b.png",
+        "title":"3匹/一级能效/新风增氧/分段式送风/智能空气管家/除病毒/高温烘干自清洁/空调柜机",
+        "title2":"30天保价",
+        "title1":"【KFR-72LW/A8X630Z-A1】3匹/一级能效/新风增氧/分段式送风/智能空气管家/除病毒/高温烘干自清洁/空调柜机",
+        "price":12999,
+        "price1":12999,
+        "is_select":0,
+        "ts": "已售1363台",
+        "pj": "评价(7)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/17/bcac54e5-182a-4341-936a-c3a0f1f5cd6b.png",
+            "//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+            "//img.shop.hisense.com/2020/05/26/261a6123-24f5-4ddf-acf3-a8a63e1797e7.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+},{
+    "name": "冰箱专区",
+    "id":3,
+    "img": ["//img.shop.hisense.com/2020/04/17/d4996fed-90f5-43d8-b61b-93d1109e8196.jpg",
+        "//img.shop.hisense.com/2020/06/12/0174e9bb-f1bc-428f-86d4-a35ac8fa1f81.jpg",
+        "//img.shop.hisense.com/2020/06/12/d334392b-59e7-4f1a-9407-ad412171707a.jpg"
+    ],
+    "product":[{
+        "id":15,
+        "img1":"//img.shop.hisense.com/2019/07/22/149da5f1-0736-4dfc-b46a-ebb89aab2f2c.png",
+        "title":"459升十字多门电冰箱/变频风冷无霜/抗菌/一级能效",
+        "title2":"活动价3099元!",
+        "title1":"【巅峰狂欢】【BCD-459WTDVBPI/Q】459升十字多门电冰箱/变频风冷无霜/抗菌/一级能效",
+        "price":3099,
+        "price1":3099,
+        "is_select":0,
+        "ts": "已售2292台",
+        "pj": "评价(7)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/07/22/149da5f1-0736-4dfc-b46a-ebb89aab2f2c.png",
+            "//img.shop.hisense.com/2019/09/30/79b3cbf0-ef39-4e7e-a447-85e1a3e88f40.png",
+            "//img.shop.hisense.com/2020/05/26/261a6123-24f5-4ddf-acf3-a8a63e1797e7.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":16,
+        "img1":"//img.shop.hisense.com/2019/05/10/99a843e4-1673-45d1-a5bc-d8db6424d86a.png",
+        "title":"多门冰箱/变频无霜/抗菌/变温/家用电冰箱",
+        "title2":"",
+        "title1":"【巅峰狂欢】【BCD-322WNK1DPUS】多门冰箱/变频无霜/抗菌/变温/家用电冰箱",
+        "price":2599,
+        "price1":2599,
+        "is_select":0,
+        "ts": "已售3027台",
+        "pj": "评价(604)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/08/22/6c5e6cc4-d729-42d5-a0f1-1f8378d18ae0.png",
+            "//img.shop.hisense.com/2018/06/11/9f75e169-d0fd-4b94-9040-a72b662dcb1b.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":17,
+        "img1":"//img.shop.hisense.com/2019/08/22/6c5e6cc4-d729-42d5-a0f1-1f8378d18ae0.png",
+        "title":"519升/双开门对开门冰箱/变频风冷无霜/抗菌/纤薄机身/电冰箱",
+        "title2":"",
+        "title1":"【巅峰狂欢】【BCD-519WTVBP 】519升/双开门对开门冰箱/变频风冷无霜/抗菌/纤薄机身/电冰箱",
+        "price":2599,
+        "price1":2599,
+        "is_select":0,
+        "ts": "已售2559台",
+        "pj": "评价(624)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/08/22/6c5e6cc4-d729-42d5-a0f1-1f8378d18ae0.png",
+            "//img.shop.hisense.com/2018/06/11/9f75e169-d0fd-4b94-9040-a72b662dcb1b.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+        
+    },{
+        "id":18,
+        "img1":"//img.shop.hisense.com/2019/05/13/c55f4531-f666-44f0-aaef-85fce3bb9d32.png",
+        "title":"629升对开门冰箱/变频风冷无霜/抗菌/一级能效/电冰箱",
+        "title2":"",
+        "title1":"【巅峰狂欢】【BCD-629WTVBP/Q】629升对开门冰箱/变频风冷无霜/抗菌/一级能效/电冰箱",
+        "price":3199,
+        "price1":3199,
+        "is_select":0,
+        "ts": "已售1617台",
+        "pj": "评价(624)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/13/c55f4531-f666-44f0-aaef-85fce3bb9d32.png",
+            "//img.shop.hisense.com/2018/02/05/ccb98194-101c-452a-8e28-9294ee329828.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+},{
+    "name": "洗衣机专区",
+    "id":4,
+    "img": ["//img.shop.hisense.com/2020/04/17/5845400d-4e0c-42c4-9bad-2d297d35171e.jpg",
+        "//img.shop.hisense.com/2020/07/01/50feba3e-a0f3-4daa-bec0-e932e3ab60e0.jpg",
+        "//img.shop.hisense.com/2020/07/01/3c823ffe-8e92-4c7d-9e3a-3aed5869ceab.jpg"
+    ],
+    "product":[{
+        "id":19,
+        "img1":"//img.shop.hisense.com/2019/05/13/222b4dce-74be-48b6-86fc-3c5c7e8d6db2.png",
+        "title":"10KG/全自动洗衣机/家用洗烘干一体/变频滚筒洗衣机",
+        "title2":"活动价2099元! 查看同款",
+        "title1":"【巅峰狂欢】【HD100DA122FG】10KG/全自动洗衣机/家用洗烘干一体/变频滚筒洗衣机",
+        "price":2099,
+        "price1":2099,
+        "is_select":0,
+        "ts": "已售2025台",
+        "pj": "评价(447)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/13/222b4dce-74be-48b6-86fc-3c5c7e8d6db2.png",
+            "//img.shop.hisense.com/2018/02/05/ccb98194-101c-452a-8e28-9294ee329828.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":20,
+        "img1":"//img.shop.hisense.com/2020/04/02/b2e91510-251a-4dff-96ba-3d491ded5bb4.png",
+        "title":"10公斤/洗烘一体/滚筒/巴氏除菌/护色洗 洗衣机",
+        "title2":"活动价1999元!",
+        "title1":"【巅峰狂欢】【HD100DES2】10公斤/洗烘一体/滚筒/巴氏除菌/护色洗 洗衣机",
+        "price":1999,
+        "price1":1999,
+        "is_select":0,
+        "ts": "已售563台",
+        "pj": "评价(88)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/04/02/b2e91510-251a-4dff-96ba-3d491ded5bb4.png",
+            "//img.shop.hisense.com/2018/02/05/ccb98194-101c-452a-8e28-9294ee329828.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":21,
+        "img1":"//img.shop.hisense.com/2020/03/07/a5188a1d-c03b-4e41-b753-9aeac3c0ebc3.png",
+        "title":"10kg/滚筒/筒自洁/悬浮环流干衣系统/洗烘一体 洗衣机",
+        "title2":"",
+        "title1":"【XQG100-UH1453F】10kg/滚筒/筒自洁/悬浮环流干衣系统/洗烘一体 洗衣机",
+        "price":7999,
+        "price1":7999,
+        "is_select":0,
+        "ts": "已售3109台",
+        "pj": "评价(1)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/03/07/a5188a1d-c03b-4e41-b753-9aeac3c0ebc3.png",
+            "//img.shop.hisense.com/2018/02/05/ccb98194-101c-452a-8e28-9294ee329828.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":22,
+        "img1":"//img.shop.hisense.com/2020/02/22/fb33b270-5612-4db2-bfc0-e964ad1a9e9c.png",
+        "title":"10KG/大容量洗烘一体变频滚筒洗衣机/贝式微蒸汽烘干/BLDC变频",
+        "title2":"UV除菌",
+        "title1":"【XQG100-UH1406F】10KG/大容量洗烘一体变频滚筒洗衣机/贝式微蒸汽烘干/BLDC变频",
+        "price":3499,
+        "price1":3499,
+        "is_select":0,
+        "ts": "已售28台",
+        "pj": "评价(4)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/02/22/fb33b270-5612-4db2-bfc0-e964ad1a9e9c.png",
+            "//img.shop.hisense.com/2018/02/05/ccb98194-101c-452a-8e28-9294ee329828.jpg",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+},{
+    "name": "科龙专区",
+    "id":5,
+    "img": ["//img.shop.hisense.com/2020/04/17/9c8b61ed-b9c5-454f-825a-118ed1102d7e.jpg",
+        "//img.shop.hisense.com/2020/04/17/dcb3a070-caa3-431d-a0a7-3db5ab026ad7.jpg",
+        "//img.shop.hisense.com/2020/04/17/ad0404a4-6b6e-43d6-91f9-449d47e16f8b.jpg"
+    ],
+    "product":[{
+        "id":23,
+        "img1":"//img.shop.hisense.com/2020/03/31/94484135-acd0-4eb5-9ff2-12225269eb3c.png",
+        "title":"科龙 1.5匹一级能效变频柔风感系列空调",
+        "title2":"",
+        "title1":"【巅峰狂欢】科龙【KFR-35GW/QFA1】1.5匹/一级能效/变频/柔风感系列/高温烘干自清洁抑菌好帮手/空调挂机",
+        "price":2099,
+        "price1":2099,
+        "is_select":0,
+        "ts": "已售2629台",
+        "pj": "评价(485)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/03/31/94484135-acd0-4eb5-9ff2-12225269eb3c.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":24,
+        "img1":"//img.shop.hisense.com/2019/05/11/a13f9169-9917-4ac1-b07f-bed9e0f3fb9c.png",
+        "title":"科龙 3匹一级智能APP控制冷暖艺术化柜机",
+        "title2":"",
+        "title1":"【巅峰狂欢】科龙【KFR-72LW/EFLVA1】3匹/一级能效/清洁除湿二合一/宅家安心畅呼吸/空调柜机",
+        "price":4599,
+        "price1":5699,
+        "is_select":0,
+        "ts": "已售2540台",
+        "pj": "评价(790)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/11/a13f9169-9917-4ac1-b07f-bed9e0f3fb9c.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":25,
+        "img1":"//img.shop.hisense.com/2020/04/03/7f1143e1-5df8-46c9-a500-a3b06d29d91d.png",
+        "title":"科龙 3匹新一级能效玉润系列润养舒适空调",
+        "title2":"",
+        "title1":"【巅峰狂欢】科龙【KFR-72LW/MF2-X1)】3匹/新一级能效/恒温除湿/22分贝低音/玉润系列润养舒适空调",
+        "price":5699,
+        "price1":5699,
+        "is_select":0,
+        "ts": "已售43台",
+        "pj": "评价(6)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/04/03/7f1143e1-5df8-46c9-a500-a3b06d29d91d.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":26,
+        "img1":"//img.shop.hisense.com/2019/05/11/9a6346e0-045e-4e48-9da5-9342a038253c.png",
+        "title":"科龙 3匹一级变频自清洁静音空调柜机",
+        "title2":"",
+        "title1":"【巅峰狂欢】科龙【KFR-72LW/VEA1】3匹/一级变频/自清洁守护健康/静音空调柜机",
+        "price":4499,
+        "price1":4499,
+        "is_select":0,
+        "ts": "已售482台",
+        "pj": "评价(185)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/11/9a6346e0-045e-4e48-9da5-9342a038253c.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+},{
+    "name": "容声专区",
+    "id":6,
+    "img": ["//img.shop.hisense.com/2020/06/09/3d3ada75-876c-42ca-8af9-611c4fc1121b.jpg",
+        "//img.shop.hisense.com/2020/06/16/eb77b184-c6d7-41a2-a4e8-474762152f85.jpg",
+        "//img.shop.hisense.com/2020/06/12/e93fb2b6-3bcd-44bc-b872-4fd27403cee9.jpg"
+    ],
+    "product":[{
+        "id":27,
+        "img1":"//img.shop.hisense.com/2019/05/10/c2ef956f-7da1-41d3-87bc-df485836c36e.png",
+        "title":"容声 对开门系列/风冷无霜/589升/矢量变频/二级能效/冰箱",
+        "title2":"活动价2999元",
+        "title1":"【巅峰狂欢】容声【BCD-589WD11HP】 对开门系列/风冷无霜/589升/矢量变频/二级能效/冰箱",
+        "price":2999,
+        "price1":2999,
+        "is_select":0,
+        "ts": "已售1248台",
+        "pj": "评价(93)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/10/c2ef956f-7da1-41d3-87bc-df485836c36e.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":28,
+        "img1":"//img.shop.hisense.com/2019/05/10/9a330473-4552-4580-9f50-00cb4a9f8b71.png",
+        "title":"容声 法式多门/风冷无霜/ 321升/矢量变频/一级能效/冰箱",
+        "title2":"",
+        "title1":"【巅峰狂欢】容声【BCD-321WD11MP】 法式多门/风冷无霜/ 321升/矢量变频/一级能效/冰箱",
+        "price":2799,
+        "price1":2799,
+        "is_select":0,
+        "ts": "已售186176台",
+        "pj": "评价(262)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/05/10/9a330473-4552-4580-9f50-00cb4a9f8b71.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":29,
+        "img1":"//img.shop.hisense.com/2019/07/26/88d3392a-8f9b-4d47-9344-f2733d756e73.png",
+        "title":"容声对开门/风冷无霜/601升/冰箱",
+        "title2":"",
+        "title1":"容声【BCD-601WKS1HPG】对开门/风冷无霜/601升/冰箱",
+        "price":9799,
+        "price1":9799,
+        "is_select":0,
+        "ts": "已售42台",
+        "pj": "评价(1)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2019/07/26/88d3392a-8f9b-4d47-9344-f2733d756e73.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    },{
+        "id":30,
+        "img1":"//img.shop.hisense.com/2020/02/19/cf32266f-2a5a-43ef-96a7-325dc716cfe4.png",
+        "title":"容声两门/338升/风冷/变频/一级能效/杀菌净化冰箱",
+        "title2":"",
+        "title1":"容声【BCD-338WKR1NPG】两门/338升/风冷/变频/一级能效/杀菌净化冰箱",
+        "price":3999,
+        "price1":3999,
+        "is_select":0,
+        "ts": "已售2台",
+        "pj": "评价(0)",
+        "goods_number":30,
+        "cart_number": "0",
+        "imgs": [
+            "//img.shop.hisense.com/2020/02/19/cf32266f-2a5a-43ef-96a7-325dc716cfe4.png",
+            "//img.shop.hisense.com/2020/03/31/984b3c4e-8904-4984-9062-98ada1575907.png",
+            "//img.shop.hisense.com/2018/06/11/d1d67e90-179d-4da2-af1e-35a5c2550cbf.jpg",
+            "//img.shop.hisense.com/2018/10/03/52e3af39-dc59-4eb4-a0c7-c8ecd56a17a1.png",
+            "//img.shop.hisense.com/2018/10/03/6653d394-9da6-4c6c-ab69-b3a430b30f79.png"
+        ]
+    }]
+}]

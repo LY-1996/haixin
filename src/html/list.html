@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>海信商城-商品搜索</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/list.css">
+    <link rel="stylesheet" href="../iconfont/iconfont.css">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+    <script src="../js/jquery.js"></script>
+    <!-- <script src="../js/page.js"></script> -->
+</head>
+
+<body>
+    <!-- 头部链接图片 -->
+    <header>
+        <a href="http://www.hisense.cn/">
+            <img src="../images/background1.jpg" alt="">
+        </a>
+    </header>
+    <!-- nav -->
+    <div id="navBox">
+        <div class="nav-con">
+            <ul class="nav_l float_l ">
+                <li>
+                    <a href="javascript:;">海信集团官网</a>
+                </li>
+                <i>
+                    <i class="iconfont icon-laba_"></i>
+                </i>
+            </ul>
+            <!-- 搜索框 -->
+            <div class="search">
+                <i class="iconfont icon-sousuo"></i>
+                <input type="text" placeholder="冰爽节 盛夏狂欢 7.21-7.24 买电器赢狂欢津贴" id="inp">
+                <ul></ul>
+            </div>
+            <ul class="nav_r float_r">
+                <li class="denglu"><a href="denglu.html">登录</a></li>
+                <li class="zhuce"><a href="zuche.html">注册</a></li>
+                <li class="bai"><a href="javascript:;">消息中心</a></li>
+                <li class="bai"><a href="javascript:;">帮助中心</a></li>
+                <li class="bai"><a href="javascript:;">外部合作</a></li>
+                <li class="bai">
+                    <a href="javascript:;">下载APP</a>
+                    <div class="xz">
+                        <img src="../images/xiazai.png" alt="">
+                        <p>海信商城APP</p>
+                    </div>
+                </li>
+                <li class="bai">
+                    <a href="javascript:;">网站导航</a>
+                    <ul class="hide clear_fix">
+                        <li class="hide_l">
+                            <h3>服务指标</h3>
+                            <ul class="two">
+                                <li><a href="javascript:;">帮助中心</a></li>
+                                <li><a href="javascript:;">在线客服</a></li>
+                                <li><a href="javascript:;">会员中心</a></li>
+                                <li><a href="javascript:;">电子发票</a></li>
+                            </ul>
+                        </li>
+                        <li class="hide_l">
+                            <h3>集团简介</h3>
+                            <ul class="two">
+                                <li><a href="javascript:;">企业简介</a></li>
+                                <li><a href="javascript:;">海信历史</a></li>
+                                <li><a href="javascript:;">企业荣誉</a></li>
+                                <li><a href="javascript:;">校园招聘</a></li>
+                                <li><a href="javascript:;">社会招聘</a></li>
+                            </ul>
+                        </li>
+                        <li class="hide_l">
+                            <h3>商品特色</h3>
+                            <ul class="two">
+                                <li><a href="javascript:;"> ULED新品上市</a></li>
+                                <li><a href="javascript:;">科龙专区</a></li>
+                                <li><a href="javascript:;">容声专区</a></li>
+                                <li><a href="javascript:;">电子发票</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="bai">
+                    <i></i>
+                    <a href="shoppingcar.html" class="gwc-icon2">购物车(<span>0</span>)</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- 导航栏 -->
+    <div id="dh">
+        <div class="dh-wrap">
+            <!-- logo -->
+            <a href="../html/index.html" class="logo">
+                <img src="../images/logo.png" alt="">
+            </a>
+            <!-- nav -->
+            <ul class="dh-nav">
+            </ul>
+            <!-- 盒子的内容 -->
+            <div class="dh-con">
+                <div class="dh-menu">
+                    <ul class="menu-l"></ul>
+
+                    <ul class="menu-r"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 商品列表 -->
+    <div class="lists">
+        <div class="lists-con">
+            <div class="lists-wrap clearfix">
+                 <!-- 左边板块的内容 -->
+                <div class="lists-l can-fixed">
+                    <div class="search-side">
+                    </div>
+                </div>
+                <!-- 右边的内容 -->
+                <div class="lists-r">
+                    <span class="items-total"></span>
+                    <!-- 图标 -->
+                    <div class="lists-tb">
+                        <div class="lists-tbr">
+                            <i class="iconfont icon-liebiao1 active"></i>
+                            <i class="iconfont icon-liebiao"></i>
+                        </div>
+                        <div class="lists-tbl">
+                            <span>评价数<i class="iconfont icon-down"></i></span>
+                            <span>销量<i class="iconfont icon-down"></i></span>
+                            <span>价格<i class="iconfont icon-down"></i></span>
+                        </div>
+                    </div>
+                    <!-- 地址-->
+                    <div class="lists-address">
+                        <div class="lists-addl">
+                            <label class="ps">配送至</label>
+                            <!-- 三级联动 -->
+                            <div class="lists-addcon">
+                                <div id="province" ></div>
+                                <div class="addcon2">
+                                    <label for="">
+                                        <input type="checkbox">有货
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lists-addr"></div>
+                    </div>
+                    <!-- 主要内容 -->
+                    <div class="lists-nr">
+                        <ul class="nr-wrap"></ul>
+                        <!-- 分页器 -->
+                         <!-- 分页器 -->
+                     <div class="pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- link -->
+    <div class="link-wrap">
+        <div class="bto-t">
+            <ul>
+                <li><img src="../images/bot.png" alt=""> </li>
+                <li><img src="../images/bot1.png" alt=""></li>
+                <li><img src="../images/bot2.png" alt=""></li>
+                <li><img src="../images/bot3.png" alt=""></li>
+            </ul>
+        </div>
+        <div class="bto-con">
+            <ul>
+                <li>企业简介</li>
+                <li><a href="javascript:;">企业简介</a></li>
+                <li><a href="javascript:;">企业历史</a></li>
+                <li><a href="javascript:;">企业荣誉</a></li>
+                <li><a href="javascript:;">企业布局</a></li>
+            </ul>
+            <ul>
+                <li>人才招聘</li>
+                <li><a href="javascript:;">社会招聘</a></li>
+                <li><a href="javascript:;">校园招聘</a></li>
+                <li><a href="javascript:;">校园招聘</a></li>
+            </ul>
+            <ul>
+                <li>商城服务</li>
+                <li><a href="javascript:;">售后政策</a></li>
+                <li><a href="javascript:;">价格保护</a></li>
+                <li><a href="javascript:;">退款说明</a></li>
+                <li><a href="javascript:;">退换货说明</a></li>
+            </ul>
+            <ul>
+                <li>购物服务</li>
+                <li><a href="javascript:;">购物流程</a></li>
+                <li><a href="javascript:;">常见问题</a></li>
+                <li><a href="javascript:;">在线支付</a></li>
+                <li><a href="javascript:;">找人代付</a></li>
+            </ul>
+            <ul>
+                <li>物流配送</li>
+                <li><a href="javascript:;">送货范围</a></li>
+                <li><a href="javascript:;">送装一体</a></li>
+            </ul>
+            <ul>
+                <li>友情链接</li>
+                <li><a href="javascript:;">腾讯视频</a></li>
+                <li><a href="javascript:;">TV官网</a></li>
+            </ul>
+            <ul class="aside1">
+                <li>4006-111-111</li>
+                <li>周一至周日 24小时</li>
+                <li><a href="javascript:;"><img src="../images/xiazai.png" alt=""></a></li>
+                <li>扫一扫，免费送延保+会员积分</li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- bottom -->
+    <div id='bottom'>
+        <div class="bottom-wrap">
+            <div class="btom_l">
+                <a href="javascript:;"><img src="../images/b1.jpg" alt=""></a>
+                <a href="javascript:;"><img src="../images/b2.jpg" alt=""></a>
+            </div>
+            <div class="btom_c">
+                <p><a href="">网站备案/许可证号</a></p>
+                <p>鲁ICP备05027830 </p>
+            </div>
+            <div class="btom_r">
+                <p>青岛海信营销管理有限公司版权所有</p>
+                <p>隐私政策&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为获得最佳操作体验，建议您使用不低于IE11版本的浏览器访问商城 </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 旁边得导航 -->
+    <div class="btm-nav">
+        <ul class="crbm-ul">
+            <li title='购物车'>
+                <a href="shoppingcar.html"><i class="iconfont icon-tubiao-"></i></a>
+                <span class="gwc-icon">0</span>
+            </li>
+            <li title='客服'>
+                <i class="iconfont icon-kefu2"></i>
+            </li>
+            <li title='手机'>
+                <i class="iconfont icon-weibiaoti-1"></i>
+            </li>
+            <li title='足迹'>
+                <i class="iconfont icon-zuji2"></i>
+            </li>
+            <li title='返回顶部' class="fh">
+                <i class="iconfont icon-fanhuidingbu1"></i>
+            </li>
+        </ul>
+    </div>
+    <script src="../js/pagination1.js"></script>
+    <script src="../js/ajax.js"></script>
+    <script src="../js/cookie.js"></script>
+    <script src="../js/list.js"></script>
+    <script src="../js/common.js"></script>
+    <script src="../js/jquery.provincesCity.js"></script>
+    <script src="../js/provincesData.js"></script>
+    <script type="text/javascript">
+        /*调用插件*/
+        $(function(){
+            $("#province").ProvinceCity();
+        });
+    </script>
+</body>
+
+</html>

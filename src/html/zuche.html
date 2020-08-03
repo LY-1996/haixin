@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/zuche.css">
+    <title>海信商城-注册</title>
+</head>
+
+<body>
+    <div id="register">
+        <div class="re-con">
+            <!--注册详细页面-->
+            <div class="res-top">
+                <div class="layout">
+                    <!-- 头部标题 -->
+                    <div class="lay-img">
+                        <a href="javascript:;">
+                            <img src="../images/zlogo.png" alt="">
+                        </a>
+                    </div>
+                    <a href="./denglu.html" class="to-login">已有账号？直接登录</a>
+                    <!-- 注册详细信息 -->
+                    <div class="lay-box">
+                        <div class="box-con">
+                            <form action="">
+                                <div class="contents">
+                                    <h2>注册海信账号</h2>
+                                    <div class="c1">
+                                        <input type="text" class="phone" required>
+                                        <span class="inner-input">用户名</span>
+                                        <i class="iconfont pd" >√</i>
+                                        <span class="note-error error1">
+                                            <i></i>
+                                            <em>输入的账号不为空</em>
+                                        </span>
+                                        <div class="input-tip">请输入4到16位（字母，数字，下划线，减号)</div>
+                                    </div>
+                                    <div class="c1">
+                                        <input type="text" maxlength="4" class="imgy tp" required>
+                                        <span class="inner-input">图片验证码</span>
+                                        <span class="note-error error1">
+                                            <i></i>
+                                            <em>图片验证码不能为空</em>
+                                        </span>
+                                        <div class="suiji">
+                                            <div id="code"></div>
+                                            <em class="hyz">换一组</em>
+                                        </div>
+                                    </div>
+                                    <div class="c1">
+                                        <input type="password" class="imgy duanxin" required>
+                                        <span class="inner-input">密码</span>
+                                        <i class="iconfont pd" >√</i>
+                                        <!-- <button disabled id="hbtn">获取验证码</button> -->
+                                        <span class="note-error error1">
+                                            <i></i>
+                                            <em>密码不能为空</em>
+                                        </span>
+                                        <div class="input-tip">6-16位数字大小写字母组合密码</div>
+                                    </div>
+                                    <div class="c1 xb">
+                                        <input type="button" value="下一步" id="xbtn">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 底部 -->
+            <div class="res-btm">
+                <div class="btm-con">
+                    <p>青岛海信营销管理有限公司版权所有 鲁ICP备05027830</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="../js/ajax.js"></script>
+    <script src="../js/zuce.js"></script>
+</body>
+
+</html>

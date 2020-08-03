@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的购物车</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../iconfont/iconfont.css">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../css/shoppingcar.css">
+    <script src="../js/jquery.js"></script>
+</head>
+
+<body>
+    <!-- nav -->
+    <div id="navBox">
+        <div class="nav-con">
+            <!-- 搜索框 -->
+            <div class="search">
+                <i class="iconfont icon-sousuo"></i>
+                <input type="text" placeholder="冰爽节 盛夏狂欢 7.21-7.24 买电器赢狂欢津贴" id="inp">
+                <ul></ul>
+            </div>
+            <ul class="nav_r float_r nav_s">
+                <li class="denglu"><a href="denglu.html">登录</a></li>
+                <li class="zhuce"><a href="zuche.html">注册</a></li>
+                <li class="bai"><a href="javascript:;">消息中心</a></li>
+                <li class="bai"><a href="javascript:;">帮助中心</a></li>
+                <li class="bai"><a href="javascript:;">外部合作</a></li>
+                <li class="bai">
+                    <i></i>
+                    <a href="shoppingcar.html" class="gwc-icon2">购物车(<span>0</span>)</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- shopping-cart -->
+    <div id="sc">
+        <div class="sc-wrap">
+            <!-- 购物车头部 -->
+            <div class="sc-top">
+                <div class="top-con">
+                    <a href="index.html">
+                        <img src="../images/sbg.png" alt="">
+                    </a>
+                    <h3>我的购物车</h3>
+                </div>
+            </div>
+            <!-- 地址 -->
+            <div class="sc-address">
+                <span class="add-port">配送至</span>
+                <div id="province"></div>
+            </div>
+            <!-- 购物车商品信息 -->
+            <div class="ee"></div>
+        </div>
+    </div>
+
+    <!-- link -->
+    <div class="link-wrap">
+        <div class="bto-t">
+            <ul>
+                <li><img src="../images/bot.png" alt=""> </li>
+                <li><img src="../images/bot1.png" alt=""></li>
+                <li><img src="../images/bot2.png" alt=""></li>
+                <li><img src="../images/bot3.png" alt=""></li>
+            </ul>
+        </div>
+        <div class="bto-con">
+            <ul>
+                <li>企业简介</li>
+                <li><a href="javascript:;">企业简介</a></li>
+                <li><a href="javascript:;">企业历史</a></li>
+                <li><a href="javascript:;">企业荣誉</a></li>
+                <li><a href="javascript:;">企业布局</a></li>
+            </ul>
+            <ul>
+                <li>人才招聘</li>
+                <li><a href="javascript:;">社会招聘</a></li>
+                <li><a href="javascript:;">校园招聘</a></li>
+                <li><a href="javascript:;">校园招聘</a></li>
+            </ul>
+            <ul>
+                <li>商城服务</li>
+                <li><a href="javascript:;">售后政策</a></li>
+                <li><a href="javascript:;">价格保护</a></li>
+                <li><a href="javascript:;">退款说明</a></li>
+                <li><a href="javascript:;">退换货说明</a></li>
+            </ul>
+            <ul>
+                <li>购物服务</li>
+                <li><a href="javascript:;">购物流程</a></li>
+                <li><a href="javascript:;">常见问题</a></li>
+                <li><a href="javascript:;">在线支付</a></li>
+                <li><a href="javascript:;">找人代付</a></li>
+            </ul>
+            <ul>
+                <li>物流配送</li>
+                <li><a href="javascript:;">送货范围</a></li>
+                <li><a href="javascript:;">送装一体</a></li>
+            </ul>
+            <ul>
+                <li>友情链接</li>
+                <li><a href="javascript:;">腾讯视频</a></li>
+                <li><a href="javascript:;">TV官网</a></li>
+            </ul>
+            <ul class="aside1">
+                <li>4006-111-111</li>
+                <li>周一至周日 24小时</li>
+                <li><a href="javascript:;"><img src="../images/xiazai.png" alt=""></a></li>
+                <li>扫一扫，免费送延保+会员积分</li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- bottom -->
+    <div id='bottom'>
+        <div class="bottom-wrap">
+            <div class="btom_l">
+                <a href="javascript:;"><img src="../images/b1.jpg" alt=""></a>
+                <a href="javascript:;"><img src="../images/b2.jpg" alt=""></a>
+            </div>
+            <div class="btom_c">
+                <p><a href="">网站备案/许可证号</a></p>
+                <p>鲁ICP备05027830 </p>
+            </div>
+            <div class="btom_r">
+                <p>青岛海信营销管理有限公司版权所有</p>
+                <p>隐私政策&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为获得最佳操作体验，建议您使用不低于IE11版本的浏览器访问商城 </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 旁边得导航 -->
+    <div class="btm-nav">
+        <ul class="crbm-ul">
+            <li title='购物车'>
+                <a href="shoppingcar.html"><i class="iconfont icon-tubiao-"></i></a>
+                <span class="gwc-icon">0</span>
+            </li>
+            <li title='客服'>
+                <i class="iconfont icon-kefu2"></i>
+            </li>
+            <li title='手机'>
+                <i class="iconfont icon-weibiaoti-1"></i>
+            </li>
+            <li title='足迹'>
+                <i class="iconfont icon-zuji2"></i>
+            </li>
+            <li title='返回顶部' class="fh">
+                <i class="iconfont icon-fanhuidingbu1"></i>
+            </li>
+        </ul>
+    </div>
+
+    <script src="../js/ajax.js"></script>
+    <script src="../js/cookie.js"></script>
+    <script src="../js/common.js"></script>
+    <script src="../js/shoppingcar.js"></script>
+    <script src="../js/jquery.provincesCity.js"></script>
+    <script src="../js/provincesData.js"></script>
+    <script type="text/javascript">
+        /*调用插件*/
+        $(function () {
+            $("#province").ProvinceCity();
+        });
+    </script>
+</body>
+
+</html>
