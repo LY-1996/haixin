@@ -7,8 +7,8 @@ function xs() {
 
             //创建li
             var str1 = `
-            <li class="m2"><a href="http://www.hisense.cn/"  target="_blank">官网</a></li>
-            <li class="m2"><a href="https://www.hisense.com/special_activity_page/venue" target="_blank">巅峰狂欢</a></li>
+            <li class="m2"><a href="index.html" >官网</a></li>
+            <li class="m2"><a href="javascript:;" >巅峰狂欢</a></li>
             `
             //循环遍历数据,创建li
             dt.forEach(function (item) {
@@ -106,21 +106,19 @@ $(window).scroll(function () {
             'bottom': '0'
         })
     }
-
     //返回顶部效果
     $('.fh').click(function () {
         var dsq = setInterval(function () {
-            newTop -= 300
+            newTop-=300
             if (newTop <= 0) {
                 clearInterval(dsq)
             }
             document.documentElement.scrollTop = newTop
         }, 50)
     })
-
 })
 //获取数据，渲染主页得主要内容板块
-$(function(){
+$(function () {
     $.ajax({
         url: "../json/content.json",
         dataType: 'json',
@@ -181,7 +179,7 @@ $(function(){
     })
 })
 //视频效果
-$(function(){
+$(function () {
     var video1 = document.querySelectorAll('.sp-con')
     var vImg = document.querySelectorAll('.video-box>img')
     var video2 = document.querySelectorAll('.video-box>video')

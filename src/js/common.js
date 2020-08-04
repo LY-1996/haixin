@@ -6,8 +6,8 @@ function xs() {
             var dt = eval('(' + data + ')')
             //创建li
             var str1 = `
-            <li class="m2"><a href="http://www.hisense.cn/"  target="_blank">官网</a></li>
-            <li class="m2"><a href="https://www.hisense.com/special_activity_page/venue" target="_blank">巅峰狂欢</a></li>
+            <li class="m2"><a href="index.html" >官网</a></li>
+            <li class="m2"><a href="javascript:;">巅峰狂欢</a></li>
             `
             //循环遍历数据,创建li
             dt.forEach(function (item) {
@@ -99,7 +99,7 @@ $(window).scroll(function () {
     //返回顶部效果
     $('.fh').click(function () {
         var dsq = setInterval(function () {
-            newTop =0
+            newTop = 0
             if (newTop <= 0) {
                 clearInterval(dsq)
             }
@@ -114,8 +114,8 @@ function fna() {
     var login1 = getCookie('login1')
     //获取localStorage中是否存在数据
     var cartList = JSON.parse(localStorage.getItem('cartList')) || []
-    var str2=''
-    var str3=''
+    var str2 = ''
+    var str3 = ''
     if (login1) {
         //判断该数组中是否存在数据
         if (cartList.length > 0) {
@@ -128,7 +128,7 @@ function fna() {
         } else {
             str2 = cartList.length
             $(".gwc-icon").html(str2)
-            
+
             str3 = cartList.length
             $(".gwc-icon2 span").html(str3)
         }

@@ -64,7 +64,15 @@ let iconfontHandler = () => {
 let delHandler = () => {
     return del(['./dist'])
 }
-
+let watchHandler=()=>{
+    gulp.watch('./src/html/*.html',htmlHandler)
+    gulp.watch('./src/css/*.css',cssHandler)
+    gulp.watch('./src/js/*.js',jsHandler)
+    gulp.watch('./src/php/*.php',phpHandler)
+    gulp.watch('./src/json/*.json',jsonHandler)
+    gulp.watch('./src/image/**',imageHandler)
+    gulp.watch('./src/iconfont/**',iconfontHandler)
+}
 module.exports.default = gulp.series(
     delHandler,
     gulp.parallel(htmlHandler, cssHandler, jsHandler, iconfontHandler, phpHandler, imageHandler, jsonHandler),

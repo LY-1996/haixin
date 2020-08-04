@@ -1,4 +1,5 @@
 @charset "utf-8";
+
 /* 导航栏 */
 .dh {
     background-color: #fff;
@@ -100,6 +101,7 @@
     color: #262626;
     text-align: center;
     line-height: 40px;
+    user-select: none;
 }
 
 .lists-tbl span {
@@ -262,7 +264,8 @@
     box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
 }
 
-.product a:hover {
+.product a:hover,
+.nr-wrapr2 .title a:hover {
     text-decoration: underline;
     color: #00aaa6;
 }
@@ -344,9 +347,93 @@
     border: 1px solid #ff143e;
     margin: 0 3px 6px 0;
 }
-
 .price2 {
     display: none;
+}
+
+.show2,
+.hide2 {
+    user-select: none;
+    cursor: pointer;
+}
+
+.nr-wrapr {
+    padding-top: 22px;
+    width: 100%;
+    display: none;
+}
+
+.nr-wrapr li {
+    float: left;
+    width: 468px;
+    height: 160px;
+    padding: 18px 26px;
+    margin: 0 12px 12px 0;
+    background: #fff;
+    transition: all .2s linear;
+}
+
+.nr-wrapr li:hover {
+    transform: translate3d(0, 0, 0) !important;
+    border: none;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
+
+}
+
+.nr-wrapr li .nr-wrapr1 {
+    width: 124px;
+    height: 124px;
+    margin-right: 12px;
+    float: left;
+}
+
+.nr-wrapr li .nr-wrapr1 img {
+    height: 100%;
+    width: 100%;
+}
+
+.nr-wrapr2 {
+    float: left;
+    width: 280px;
+}
+
+.nr-wrapr2 .title {
+    padding: 0 8px;
+    color: #262626;
+    line-height: 20px;
+    height: 40px;
+    margin: 0;
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    word-break: break-all;
+}
+
+.nr-wrapr2 .title a {
+    color: #000;
+}
+
+.nr-wrapr2 .price {
+    margin: 62px 0 4px 0;
+    line-height: 12px;
+    padding: 0 8px;
+}
+
+.nr-wrapr2 .price span {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff143e
+}
+
+.nr-wrapr2 .price em {
+    font-size: 12px;
+    color: #aaa;
+    line-height: 22px;
+    font-weight: 400;
+    float: right;
 }
 
 /* 分页器 */
