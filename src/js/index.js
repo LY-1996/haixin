@@ -77,6 +77,13 @@ function search1() {
     }
 }
 search1()
+//欢迎进入功能
+$(function () {
+    var name = getCookie('login1')
+    if (name) {
+        $('.nav_l').append(` <li>欢迎${name}进入</li>`)
+    }
+})
 //顶部导航栏
 $(window).scroll(function () {
     var newTop = document.body.scrollTop || document.documentElement.scrollTop
@@ -109,7 +116,7 @@ $(window).scroll(function () {
     //返回顶部效果
     $('.fh').click(function () {
         var dsq = setInterval(function () {
-            newTop-=300
+            newTop -= 300
             if (newTop <= 0) {
                 clearInterval(dsq)
             }

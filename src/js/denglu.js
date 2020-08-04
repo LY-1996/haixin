@@ -70,11 +70,11 @@ $(function () {
         if ($('.phone').val() != 0 && $('.gg').val().length >= 4) {
             $('.ybtn').css({
                 'background': "#1fccd0",
-                "color":"#fff"
+                "color": "#fff"
             })
             $('.control-group>input').css({
                 'background': "#1fccd0",
-                "color":"#fff"
+                "color": "#fff"
             })
         }
     }
@@ -86,7 +86,7 @@ $(window).scroll(function () {
     var newTop = document.body.scrollTop || document.documentElement.scrollTop
     $('.fh').click(function () {
         var dsq = setInterval(function () {
-            newTop -= 100
+            newTop = 0
             if (newTop <= 0) {
                 clearInterval(dsq)
             }
@@ -94,10 +94,16 @@ $(window).scroll(function () {
         }, 50)
     })
 })
-
-//登录
+//是否勾选同意的协议
 var btn = document.getElementById('btn')
-
+$('.is').click(function () {
+    if (this.checked) {
+        btn.removeAttribute('disabled')
+    } else {
+        btn.setAttribute('disabled', 'disabled')
+    }
+})
+//登录
 btn.onclick = function () {
     //获取输入框信息
     var u1 = document.querySelector('[name="user"]').value
@@ -115,11 +121,11 @@ btn.onclick = function () {
                     //获取跳转地址
                     var newUrl = pathName.split('=')[1]
                     //创建cookie
-                    setCookie('login1', u1, 3600)
+                    setCookie('login1', u1, 604800)
                     location.href = newUrl
                 } else {
                     //创建cookie
-                    setCookie('login1', u1, 3600)
+                    setCookie('login1', u1, 604800)
                     location.href = '../html/index.html'
                 }
             } else {
@@ -132,3 +138,8 @@ btn.onclick = function () {
         }
     })
 }
+$('#btn1').click(function () {
+    if ($('.pp').val('') && $('.gg').val('')) {
+        alert('请输入内容')
+    }
+})

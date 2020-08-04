@@ -14,7 +14,7 @@ $sql = "select * from user1 where name='$u' and pass='$p'";
 $result = mysqli_query($link, $sql);
 //判断结果集中是否存在数据
 if (mysqli_fetch_row($result)) {
-    setcookie('login1', $u, time() + 3600);
+    setcookie('login1', $u, time() + 604800);
     echo '1';
 } else {
     echo '0';

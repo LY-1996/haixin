@@ -43,7 +43,6 @@ function xs() {
     })
 }
 xs()
-
 //搜索栏
 function search1() {
     //获取输入框
@@ -108,7 +107,6 @@ $(window).scroll(function () {
     })
 
 })
-
 //购物车数量的变化
 function fna() {
     var login1 = getCookie('login1')

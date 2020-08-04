@@ -1,5 +1,17 @@
 @charset 'utf-8';
 
+.nav_l {
+    width: 233px;
+}
+
+.nav_l li i {
+    margin-right: 0;
+}
+
+.search {
+    margin-left: 0;
+}
+
 /* content */
 #home-page {
     width: 100%;
@@ -27,30 +39,38 @@
     height: 100%;
 }
 
-.swiper-wrapper .s1{
+.swiper-wrapper .s1 {
     background: url(../images/banner1.jpg)center center no-repeat;
-} 
- .swiper-wrapper .s2{
+}
+
+.swiper-wrapper .s2 {
     background: url(../images/banner2.jpg)center center no-repeat;
 }
-.swiper-wrapper .s3{
+
+.swiper-wrapper .s3 {
     background: url(../images/banner3.jpg)center center no-repeat;
 }
-.swiper-wrapper .s4{
+
+.swiper-wrapper .s4 {
     background: url(../images/banner4.jpg)center center no-repeat;
 }
-.swiper-wrapper .s5{
+
+.swiper-wrapper .s5 {
     background: url(../images/banner5.jpg)center center no-repeat;
 }
-.swiper-wrapper .s6{
+
+.swiper-wrapper .s6 {
     background: url(../images/banner6.jpg)center center no-repeat;
 }
-.swiper-wrapper .s7{
+
+.swiper-wrapper .s7 {
     background: url(../images/banner7.jpg)center center no-repeat;
 }
-.swiper-wrapper .s8{
+
+.swiper-wrapper .s8 {
     background: url(../images/banner8.jpg)center center no-repeat;
-} 
+}
+
 .swiper-slide {
     text-align: center;
     font-size: 18px;
@@ -364,24 +384,31 @@
     background-size: cover;
     transition: all 1s ease-out, transform 250ms ease, -webkit-transform 250ms ease;
 }
-.xg6{
+
+.xg6 {
     background: url(../images/xgi.jpg);
 }
-.xg1{
+
+.xg1 {
     background: url(//img.shop.hisense.com/2020/07/08/5a3877f4-6a24-411b-b183-5f02c99707c2.jpg);
 }
-.xg2{
+
+.xg2 {
     background: url(//img.shop.hisense.com/2020/07/24/93e1c483-f7a6-4404-ae3f-a1bd9644fd3b.jpg);
 }
-.xg3{
+
+.xg3 {
     background-image: url(//img.shop.hisense.com/2020/07/20/f9c86062-1255-4c35-9daa-4e844e9affad.png);
 }
-.xg4{
+
+.xg4 {
     background-image: url(//img.shop.hisense.com/2020/07/24/d36947ac-d410-44d3-9682-8154c99a8d5e.png);
 }
-.xg5{
+
+.xg5 {
     background-image: url(//img.shop.hisense.com/2020/07/24/d36947ac-d410-44d3-9682-8154c99a8d5e.png);
 }
+
 .xg ul li a .xg-tit {
     background: #fff;
     box-sizing: border-box;

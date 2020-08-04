@@ -66,7 +66,7 @@ header a img {
 }
 
 .nav_l {
-    width: 142px;
+    width: 178px;
 }
 
 .nav_l i {
@@ -76,7 +76,6 @@ header a img {
 
 .nav_l li {
     float: left;
-    padding: 0 24px 0 0;
     line-height: 36px;
     cursor: pointer;
 }
@@ -95,7 +94,7 @@ header a img {
     position: relative;
     /* margin-top: 3px; */
     float: left;
-    margin-left: 50px;
+    margin-left: 36px;
     width: 400px;
     height: 100%;
 }
@@ -521,6 +520,7 @@ header a img {
     background-color: #fff;
     bottom: 0px;
 }
+
 .crbm-ul li {
     position: relative;
     text-align: center;
