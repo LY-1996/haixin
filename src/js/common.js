@@ -94,7 +94,6 @@ $(window).scroll(function () {
             'bottom': '0'
         })
     }
-
     //返回顶部效果
     $('.fh').click(function () {
         var dsq = setInterval(function () {
